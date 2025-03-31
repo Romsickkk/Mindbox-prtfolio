@@ -15,7 +15,7 @@ localStorage — Для хранения данных
 ## 📦 Установка и запуск
 1. **Клонируйте репозиторий**
    ```sh  
-    git clone [https://github.com/Romsickkk/Mindbox-prtfolio](https://github.com/Romsickkk/Mindbox-prtfolio)
+    git clone https://github.com/Romsickkk/Mindbox-prtfolio
   
    ```
 2. **Установите зависимости**
